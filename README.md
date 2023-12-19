@@ -12,7 +12,7 @@ This repository contains a Gallery App built using the HTML, CSS and JavaScript.
  6. Responsive Website
  7. All types of Images
 
-> [Working Demo](https://github.com/)
+> [Working Demo](https://artifygallery.surge.sh/)
 
 ### Instructions
 
